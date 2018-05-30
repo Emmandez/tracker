@@ -1,0 +1,7 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.enviroment = {
+    production: true,
+    appConfigFile: './app.config.prod.json'
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZW52aXJvbWVudC5wcm9kLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiZW52aXJvbWVudC5wcm9kLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQWEsUUFBQSxVQUFVLEdBQUc7SUFDdEIsVUFBVSxFQUFFLElBQUk7SUFDaEIsYUFBYSxFQUFFLHdCQUF3QjtDQUMxQyxDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGNvbnN0IGVudmlyb21lbnQgPSB7XHJcbiAgICBwcm9kdWN0aW9uOiB0cnVlLFxyXG4gICAgYXBwQ29uZmlnRmlsZTogJy4vYXBwLmNvbmZpZy5wcm9kLmpzb24nXHJcbn0iXX0=
